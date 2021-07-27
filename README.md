@@ -1,0 +1,3 @@
+# kalioncloud
+This is a shell script to install kali on cloud VPS server with a GUI.
+You dont need to create and upload a kali image file.
