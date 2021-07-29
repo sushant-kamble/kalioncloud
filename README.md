@@ -4,6 +4,6 @@ You dont need to create and upload a kali image file.
 Select a Debian OS 10.4 and run this script.
 
 
-If you like it, please show support by signing up digital ocean on below link:
+If you like it, please show support by signing up digital ocean on below linkm you will get free $100 credits :)
 
 https://m.do.co/c/a114661b0b63
